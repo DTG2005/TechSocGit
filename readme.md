@@ -17,3 +17,5 @@
 [Garima Upadhyay](https://github.com/GARIMAUP)
 
 [Nagamally Srujan](https://github.com/NAGAMALLYSRUJAN2329)
+
+[Divyam Maru](https://github.com/DTG2005)
